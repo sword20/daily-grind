@@ -51,7 +51,7 @@ switch(myDay){
             pic: "images/caramel-latte.jpg",
             alt: "A pic of caramel latte",
             day: "Sunday",
-            desc: "Just a whole latte love!"
+            desc: `Just a whole latte love!`
         };
     break;
 
@@ -64,7 +64,7 @@ switch(myDay){
             pic: "images/bubble-tea.jpg",
             alt: "A pic of bubble tea",
             day: "Monday",
-            desc: "I love Bubble Tea!"
+            desc: `I love Bubble Tea!`
         };
     break;
 
@@ -77,7 +77,7 @@ switch(myDay){
             pic: "images/cold-brew.jpg",
             alt: "A pic of Cold Brew Coffee",
             day: "Tuesday",
-            desc: "What do you call it when you walk into a coffee shop and feel like you’ve been there before? Déja-brew"
+            desc: `What do you call it when you walk into a coffee shop and feel like you’ve been there before? Déja-brew`
         };
     break;
 
@@ -90,7 +90,7 @@ switch(myDay){
             pic: "images/drip.jpg",
             alt: "A pic of a drip coffee",
             day: "Wednesday",
-            desc: "Some days you just need the drip!"
+            desc: `Some days you just need the drip!`
         };
     break;
 
@@ -103,7 +103,7 @@ switch(myDay){
             pic: "images/frappaccino.jpg",
             alt: "A pic of frappaccino",
             day: "Thursday",
-            desc: "What’s coffee's favorite Bob Marley song? Don’t Worry, Be Frappé."
+            desc: `What’s coffee's favorite Bob Marley song? Don’t Worry, Be Frappé.`
         };
     break;
 
@@ -116,7 +116,7 @@ switch(myDay){
             pic: "images/mocha.jpg",
             alt: "A pic of Mocha",
             day: "Friday",
-            desc: "You mocha me very happy."
+            desc: `You mocha me very happy.`
         };
     break;
 
@@ -129,7 +129,7 @@ switch(myDay){
             pic: "images/pumpkin-spice-latte.jpg",
             alt: "A pic of Pumpkin Spice Latte",
             day: "Saturday",
-            desc: "With coffee a pumpkin do a latte good."
+            desc: `With coffee a little extra pumpkin do a latte good.`
         };
     break;
 
